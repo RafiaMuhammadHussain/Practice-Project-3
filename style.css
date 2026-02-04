@@ -72,6 +72,10 @@ body {
 }
 @media (max-width:480px) {
     .ptext{
-        font-size: 14px;
+        font-size: 12px;
+    }
+    .section p{
+        font-size: 13px;
+        text-align: justify;
     }
 }
