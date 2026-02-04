@@ -65,3 +65,13 @@ body {
     background-color: #282e34;
     color: #ddd;
 }
+@media (max-width:570px) {
+    .ptext{
+        font-size: 19px;
+    }
+}
+@media (max-width:480px) {
+    .ptext{
+        font-size: 14px;
+    }
+}
