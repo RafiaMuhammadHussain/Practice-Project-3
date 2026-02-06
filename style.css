@@ -79,3 +79,11 @@ body {
         text-align: justify;
     }
 }
+@media (max-width:382px){
+    .ptext{
+        font-size: 8px;
+    }
+     .section p{
+        font-size: 10px;
+    }
+}
